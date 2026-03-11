@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rudransh 👋
 
-<!--
-**LillyShadow/LillyShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Data Scientist** interested in **Machine Learning, AI, and Data Analytics**.
+I like working with data, building models, and creating projects that solve real problems.
 
-Here are some ideas to get you started:
+🎓 Currently pursuing **BCA** and studying **Data Science at IIT Madras**, focusing on statistics, machine learning, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Learning
+
+* 🤖 Machine Learning
+* 📊 Data Analysis
+* 🧠 Deep Learning
+* 🐍 Python for Data Science
+
+## 🛠 Tech Stack
+
+* **Languages:** 🐍 Python, ⚡ JavaScript, 🗄 SQL
+* **Libraries:** 📊 Pandas, 🔢 NumPy, 🤖 Scikit-learn
+* **Tools:** 🔧 Git, 🐙 GitHub, 🐧 Linux, 📓 Jupyter Notebook
+
+## 🎯 Goals
+
+Grow from **📊 Data Analyst → 🤖 Data Scientist → ⚙️ ML Engineer → 🧠 AI Specialist** while building real-world projects and improving problem-solving skills.
