@@ -80,11 +80,6 @@ currently_building: real-world ML projects
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 ### 🗄 Databases
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -93,6 +88,11 @@ currently_building: real-world ML projects
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### 🌐 Web / Backend
 <p>
@@ -135,7 +135,7 @@ currently_building: real-world ML projects
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rudransh-ai-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D300C5&icon_color=00BFFF&text_color=C9D1D9&ring_color=D300C5" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rudransh-ai-dev&theme=radical&hide_border=true&background=0D1117&ring=D300C5&fire=00BFFF&currStreakLabel=D300C5&sideLabels=C9D1D9" />
+  <img height="170" src="https://streak-stats.demolab.com?user=rudransh-ai-dev&theme=radical&hide_border=true&background=0D1117&ring=D300C5&fire=00BFFF&currStreakLabel=D300C5&sideLabels=C9D1D9" />
 </p>
 
 <p align="center">
@@ -156,7 +156,9 @@ currently_building: real-world ML projects
 ## `> ./trophies --show`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudransh-ai-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rudransh-ai-dev&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&rank=-C" />
+  </a>
 </p>
 
 <br/>
@@ -188,8 +190,8 @@ flowchart LR
 ## `> ./connect --interactive`
 
 <p align="center">
-  <a href="mailto:kashyaprudra22@gmail.com">
-    <img src="https://img.shields.io/badge/-kashyaprudra22%40gmail.com-D300C5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+  <a href="mailto:workrudra22@gmail.com">
+    <img src="https://img.shields.io/badge/-workrudra22%40gmail.com-D300C5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
   </a>
   <a href="https://github.com/rudransh-ai-dev">
     <img src="https://img.shields.io/badge/-rudransh--ai--dev-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
