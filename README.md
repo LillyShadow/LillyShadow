@@ -166,7 +166,7 @@ currently_building: real-world ML projects
 ## `> ./snake --animate`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rudransh-ai-dev/rudransh-ai-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/bytebyrudransh/rudransh-ai-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </p>
 
 <br/>
